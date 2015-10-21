@@ -3,3 +3,10 @@ Git Demo Workshop
 
 Kedar is new to Git
 
+Learning git
+create dir
+git init
+git status
+create file 
+git add filename
+
